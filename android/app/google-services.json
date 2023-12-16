@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "256245464939",
+    "project_id": "psicologiadantecorvalan",
+    "storage_bucket": "psicologiadantecorvalan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256245464939:android:90f121a8e0dbd30f8c962e",
+        "android_client_info": {
+          "package_name": "com.mycompany.psicologodantecorvalan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256245464939-54bvq38ok1iknehn5sot250gf4kmndci.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.psicologodantecorvalan",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "256245464939-teuiuivs83f392g3epche2hb4d2d4jr8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4dk-P7H9ZK4L7GpXmpGFIa06Ptrjzn84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256245464939-teuiuivs83f392g3epche2hb4d2d4jr8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "256245464939-5epaja0093lb2tbunubflft1v9lqsd36.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.psicologodantecorvalan"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
